@@ -1,27 +1,24 @@
-# EssentialsPractice
+# Angular Investment Calculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+This project is a web application for calculating investment returns. Users can enter their initial investment, annual investment, expected return, and investment duration. The application then shows the results for each year.
 
-## Development server
+## Project Benefits
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Estimate investment returns
+- Practice creating and using Angular components
+- Practice collecting user input and displaying results
+- Practice using TypeScript, HTML, and CSS
 
-## Code scaffolding
+## Built With
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Angular CLI
 
-## Build
+## Learning Source
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This project was created as part of the following Udemy course:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Master Angular (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js**
